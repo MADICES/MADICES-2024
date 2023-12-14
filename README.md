@@ -8,7 +8,7 @@
 
 </div>
 
-This repository is the base for ongoing discussions around the upcoming [MADICES 2024 workshop](https://www.cecam.org/workshop-details/1503).
+This repository is the base for ongoing discussions around the upcoming [MADICES 2024 workshop](https://www.cecam.org/workshop-details/1321).
 
 Please feel free to join in on the [discussions page](https://github.com/MADICES/MADICES-2024/discussions).
 
